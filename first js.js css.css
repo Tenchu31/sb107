@@ -1,0 +1,13 @@
+button{
+    background-color: red;
+    color: black ;
+    width: 50;
+    height: 20;
+
+border-radius: 25;
+border-color: red;
+}
+body
+{
+    background-color: cyan;
+}
